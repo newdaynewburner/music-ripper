@@ -1,0 +1,8 @@
+# Project
+*.mp3
+db/database.db
+
+# Python
+*.pyc
+__pycache__/
+lib/__pycache__/
